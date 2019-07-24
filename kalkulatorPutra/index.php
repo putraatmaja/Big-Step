@@ -39,6 +39,6 @@
 			<td colspan="5"><button class="btn hsl" style="width: 100%" onclick="hitung()">=</button></td>
 		</tr>
 	</table>
-	<script type="text/javascript" src="kalkulator.js"></script>
+	<script type="text/javascript" src="perhitungan.js"></script>
 </body>
 </html>
