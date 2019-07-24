@@ -1,46 +1,43 @@
 table {
-	border : none;
-	border-collapse: collapse;
+    border : none;
+    border-collapse: collapse;
 }
 td{
-	padding: 5px;
-	border: none;
+    padding: 5px;
+    border: none;
+
 }
 input[type=text]{
-	padding: 10px;
-	width: 410px;
-	border-style: solid;
-	text-align: right;
-	font-size: 16px;
+    padding: 10px;
+    width: 410px;
+    border-style: solid;
+    text-align: right;
+    font-size: 16px;
+
 }
 input[type=text]:disabled{
-	background-color: white;
+    background-color: white;
 }
+
 .btn {
-	width: 100px;
-	height: 40px;
-	background-color: #4CAF50;
+    width: 100px;
+    height: 40px;
+    background-color: grey;
     border: none;
     color: white;
     padding: 10px;
-    font-size: 16px;
+    font-size: 20px;
     cursor: pointer;
 }
-.opr{
-		background-color: #555555;
-}
-.clr{
-	background-color: #f44336;;
-}
-.hsl{
-	background-color: #008CBA;
-}/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : Jul 23, 2019, 9:42:05 PM
-    Author     : TRAX1MUS
-*/
 
+.opr{
+    background-color: #555555;
+}
+
+.clr{
+    background-color: #f44336;;
+}
+
+.hsl{
+    background-color: orange;
+}
